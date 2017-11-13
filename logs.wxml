@@ -1,0 +1,6 @@
+<!--logs.wxml-->
+<view class="container">
+  <view catchtap="onTapJump" class="jingji-container">
+      <text class="jingji">经济管理学院</text>
+  </view>
+</view>
